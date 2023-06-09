@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<HerbolarioNavarro>
+<direction>Av. de la Estación, 21, 03003, Alicante</direction>
+<coordinates>
+    <north>40°26'50.51<north>
+    <west>3°42'12.88<west>
+</coordinates>
+<products>
+    <fridgeSection>
+        <product>Yogur de coco</product>
+        <brand>Abbot Kiney</brand>
+        <info>
+            <units>1</units>
+            <fresh>true</fresh>
+            <format>Envase</format>
+            <quantity>350</quantity>
+            <measureUnit>gramos</measureUnit>
+        </info>
+        <prize>2.59</prize>
+        <expires>true</expires>
+        <inOffer>true</inOffer>
+        <bought>true</bought>
+    </fridgeSection>
+    <fruitSection>
+        <product>Aguacate</product>
+        <brand>Bio</brand>
+        <info>
+            <units>1</units>
+            <fresh></fresh>
+            <format>A granel</format>
+            <quantity>500</quantity>
+            <measureUnit>gramos</measureUnit>
+        </info>
+        <prize>1.79</prize>
+        <expires>true</expires>
+        <inOffer>false</inOffer>
+        <bought>true</bought>
+    </fruitSection>
+</products>

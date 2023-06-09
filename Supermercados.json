@@ -1,0 +1,163 @@
+{
+    "Herbolario Navarro": [
+        {
+            "direction": "Av. de la Estación, 21, 03003, Alicante",
+            "coordinates": "34°46'89.38\"N 49°36'05.-0\"O\"",
+
+            "products": [
+                {
+                    "FridgeSection": [
+                        {
+                            "product": "Yogur de coco",
+                            "brand": "Abbot Kiney",
+
+
+                            "info": {
+                                "units": 1,
+                                "fresh": true,
+                                "format": "envase",
+                                "quantity": 350,
+                                "measureUnit": "gramos"
+                            }, 
+
+                            "prize": 2.59,
+                            "expires": true,
+                            "inOffer": true,
+                            "bought": true
+
+                        }
+                    ], 
+
+                    "FruitSection": [
+                        {
+                            "product": "Aguacate",
+                            "brand": "Bio",
+
+
+                            "info": {
+                                "units": 1,
+                                "fresh": true,
+                                "format": "A granel",
+                                "quantity": 500,
+                                "measureUnit": "gramos"
+                            },
+
+                            "prize": 1.79,
+                            "expires": true,
+                            "inOffer":false,
+                            "bought": true
+                        }
+                    ]
+                }
+                
+            ]
+        }
+    ],
+
+
+    "Veritas": [
+        {
+            "direction": "Carretera Murcia, Av. Miguel Hernández 3, Ctra. Valencia, Km 88, 03550 San Juan, Alicante",
+            "coordinates": "40°0'31.38\"N 42°82'8.-0\"O\"",
+
+
+            "products": [
+                {
+                    "FridgeSection": [
+                        {
+                            "product": "Yogur de cabra",
+                            "brand": "Cantero de Letur", 
+
+                            "info": {
+                                "units": 2,
+                                "fresh": true,
+                                "format": "envase",
+                                "quantity": 125,
+                                "measureUnit": "gramos"
+                            },
+
+                            "prize": 2.49,
+                            "expires": true,
+                            "inOffer": false,
+                            "bought": true
+                        }
+                    ], 
+
+                    "FruitSection": [
+                        {
+                            "product": "Fresas",
+                            "brand": "Bio",
+
+                            "info": {
+                                "units": 1,
+                                "fresh":true,
+                                "format": "A granel",
+                                "quantity": 500,
+                                "measureUnit": "gramos"
+                            },
+
+                            "prize": 1.42,
+                            "expires":true,
+                            "inOffer": true,
+                            "bought": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    
+    
+    "Spar": [
+        {
+            "direction": "Av. del Padre Espla, 27, 03013 Alicante",
+            "coordinates": "35°68'5.38\"N 4°77'68.-0\"O\"",
+
+
+            "products": [
+                {
+                    "FridgeSection": [
+                        {
+                            "product": "Yogur de coco",
+                            "brand": "Absolutely Coconut",
+
+                            "info": {
+                                "units": 1,
+                                "fresh": true,
+                                "format": "envase",
+                                "quantity": 350,
+                                "measureUnit": "gramos"
+                            },
+
+                            "prize": 2.99,
+                            "expires": true,
+                            "inOffer": true,
+                            "bought": false
+                        }
+                    ],
+
+                    "FruitSection": [
+                        {
+                            "product": "Melocotón",
+                            "brand": "Bio",
+
+                            "info": {
+                                "units": 1,
+                                "fresh": true,
+                                "format": "A granel",
+                                "quantity": 250,
+                                "measureUnit": "gramos"
+                            },
+
+                            "prize": 1.15,
+                            "expires": true,
+                            "inOffer": false,
+                            "bought": true
+                        }
+                    ]
+                }
+            ]
+        }
+    ] 
+
+}
